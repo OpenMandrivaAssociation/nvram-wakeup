@@ -46,3 +46,10 @@ install -m 0644 *.8.* %buildroot/%{_mandir}/man8
 %doc HISTORY README.*  COPYING
 %{_sbindir}/*
 %{_mandir}/man8/*.8.*
+
+
+%changelog
+* Fri Dec 02 2011 Alexander Khrukin <akhrukin@mandriva.org> 1.1-1
++ Revision: 737233
+- imported package nvram-wakeup
+
