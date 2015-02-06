@@ -2,7 +2,7 @@ Name:		nvram-wakeup
 URL:		http://sourceforge.net/projects/nvram-wakeup
 Summary:	Reads and writes the WakeUp time in the BIOS
 Version:	1.1
-Release:	1
+Release:	2
 License:	GNU General Public License (GPL)
 Group:		System/Base
 Source:		http://downloads.sourceforge.net/project/nvram-wakeup/nvram-wakup-%{version}.tar.gz
