@@ -8,6 +8,7 @@ Group:		System/Base
 Source:		http://downloads.sourceforge.net/project/nvram-wakeup/nvram-wakup-%{version}.tar.gz
 Source1:	COPYING
 
+BuildRequires:	make
 %description
 This is a (small) program  that can read and write  the WakeUp time in
 the  BIOS  (via /dev/nvram on kernels >= 2.4.6 or via direct I/O).  On
